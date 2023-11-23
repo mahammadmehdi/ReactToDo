@@ -1,0 +1,20 @@
+.navbar{
+    background-color: #212529;
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #f8f9fa;
+}
+ul{
+    display: flex;
+    gap: 10px;
+    
+}
+.leftText{
+    padding-left: 7%;
+}
+.rightUl{
+    padding-right: 7%;
+}
